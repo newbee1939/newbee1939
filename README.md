@@ -1,6 +1,7 @@
 ## //
 
 - [StackShare](https://stackshare.io/hideto3970)
+- [はてなブログ](https://newbee1939.hatenablog.com)
 
 ## Hi there 👋
 

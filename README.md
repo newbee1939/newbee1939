@@ -20,8 +20,9 @@ I'm an engineer with broad experience across frontend, backend, and infrastructu
 - React, Next.js, NestJS, Laravel
 
 **Infrastructure & Cloud**
-- Google Cloud Platform (Cloud Run, GKE, Cloud SQL, etc.)
+- Google Cloud (Cloud Run, GKE, Cloud SQL, etc.)
 - AWS (EC2, S3, Route53, etc.)
+- CDN (Cloudflare, Akamai)
 - Docker, Kubernetes, Terraform
 
 **Tools & Others**

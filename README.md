@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I'm an engineer with broad experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on infrastructure construction and operations centered around Google Cloud.
+I'm a full-stack engineer with experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on Google Cloud infrastructure standardization and operations.
 
 ### 🔭 Currently Working On
 
-- Standardization and optimization of Google Cloud infrastructure
-- Infrastructure construction and operations using Terraform
+- Google Cloud infrastructure standardization and optimization
+- Infrastructure as Code with Terraform
 
 ### 🌱 Currently Learning
 
 - SRE (Site Reliability Engineering)
 - OpenTelemetry (OTEL)
-- Full-stack development (with SRE as the main focus)
+- Full-stack development with SRE focus
 
 ### 🛠️ Tech Stack
 
@@ -20,14 +20,14 @@ I'm an engineer with broad experience across frontend, backend, and infrastructu
 - React, Next.js, NestJS, Laravel
 
 **Infrastructure & Cloud**
-- Google Cloud (Cloud Run, GKE, Cloud SQL, etc.)
-- AWS (EC2, S3, Route53, etc.)
-- CDN (Cloudflare, Akamai)
+- Google Cloud Platform (Cloud Run, GKE, Cloud SQL)
+- AWS (EC2, S3, Route53)
 - Docker, Kubernetes, Terraform
+- CDN (Cloudflare, Akamai)
 
-**Tools & Others**
-- GraphQL, Prisma, Jest
-- GitHub Actions, CircleCI
+**Tools & Testing**
+- GraphQL, Prisma
+- Jest, GitHub Actions, CircleCI
 
 ### 🤝 OSS Contributions
 

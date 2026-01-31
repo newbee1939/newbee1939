@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-フロントエンドからバックエンド、インフラまで幅広く経験しているエンジニアです。現在はSREチームに所属し、Google Cloudを中心としたインフラ構築・運用を担当しています。
+I'm an engineer with broad experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on infrastructure construction and operations centered around Google Cloud.
 
 ### 🔭 Currently Working On
 
-- Google Cloudインフラの標準化・最適化
-- Terraformを用いたインフラ構築・運用
+- Standardization and optimization of Google Cloud infrastructure
+- Infrastructure construction and operations using Terraform
 
 ### 🌱 Currently Learning
 
-- SRE（Site Reliability Engineering）
-- OpenTelemetry（OTEL）
-- フルスタック開発（SREを主軸に）
+- SRE (Site Reliability Engineering)
+- OpenTelemetry (OTEL)
+- Full-stack development (with SRE as the main focus)
 
 ### 🛠️ Tech Stack
 
@@ -20,8 +20,8 @@
 - React, Next.js, NestJS, Laravel
 
 **Infrastructure & Cloud**
-- Google Cloud Platform（Cloud Run, GKE, Cloud SQL等）
-- AWS（EC2, S3, Route53等）
+- Google Cloud Platform (Cloud Run, GKE, Cloud SQL, etc.)
+- AWS (EC2, S3, Route53, etc.)
 - Docker, Kubernetes, Terraform
 
 **Tools & Others**

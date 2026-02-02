@@ -1,5 +1,3 @@
-[![h6o's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbee1939)](https://github.com/newbee1939/github-readme-stats)
-
 ## Hi there 👋
 
 I'm a full-stack engineer with experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on Google Cloud infrastructure standardization and operations.

@@ -1,5 +1,5 @@
 
-[![newbee1939's GitHub stats](https://github-readme-stats.vercel.app/api?username=newbee1939)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=newbee1939&show_icons=true&theme=radical)
 
 ## Hi there 👋
 

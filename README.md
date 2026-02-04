@@ -42,3 +42,12 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 - **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)**
   - [Pull Request](https://github.com/firstcontributions/first-contributions/pull/79598)
+
+### 🏅 Certifications
+
+- Google Cloud Professional Cloud Developer (July 2023)
+- TOEIC Score: 815 (2020)
+
+### 📊 GitHub Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newbee1939&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)

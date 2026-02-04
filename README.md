@@ -1,10 +1,9 @@
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=newbee1939&hide=html)
-![h6o's github stats](https://github-readme-stats-fast.vercel.app/api?username=newbee1939&show_icons=true&count_private=true&line_height=40)
-
-
 ## Hi there 👋
 
 I'm a full-stack engineer with experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on Google Cloud infrastructure standardization and operations.
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=newbee1939&hide=html)
+![h6o's github stats](https://github-readme-stats-fast.vercel.app/api?username=newbee1939&show_icons=true&count_private=true&line_height=40)
 
 ### 🔭 Currently Working On
 

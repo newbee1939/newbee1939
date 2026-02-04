@@ -2,9 +2,6 @@
 
 I'm a full-stack engineer with experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on Google Cloud infrastructure standardization and operations.
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=newbee1939&hide=html)
-![h6o's github stats](https://github-readme-stats-fast.vercel.app/api?username=newbee1939&show_icons=true&count_private=true&line_height=40)
-
 ### 🔭 Currently Working On
 
 - Google Cloud infrastructure standardization and optimization
@@ -49,5 +46,8 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 - TOEIC Score: 815 (2020)
 
 ### 📊 GitHub Activity
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=newbee1939&hide=html)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=newbee1939&show_icons=true&count_private=true&line_height=40)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=newbee1939&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)

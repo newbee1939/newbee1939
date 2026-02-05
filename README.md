@@ -47,8 +47,8 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ### 📊 GitHub Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbee1939&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbee1939&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbee1939&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbee1939&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbee1939&theme=vision_friendly_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=newbee1939&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbee1939&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbee1939&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbee1939&theme=vision_friendly_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbee1939&theme=vision_friendly_dark&utcOffset=8)

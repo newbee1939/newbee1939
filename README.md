@@ -2,6 +2,10 @@
 
 I'm a full-stack engineer with experience across frontend, backend, and infrastructure. Currently working as an SRE, focusing on Google Cloud infrastructure standardization and operations.
 
+### ✨ Goal
+
+**Write Code Every Day** — 毎日少しでもコードを書くことを目標に、小さな積み重ねを大切にしています。
+
 ### 🔭 Currently Working On
 
 - Google Cloud infrastructure standardization and optimization

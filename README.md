@@ -4,7 +4,7 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ### ✨ Goal
 
-**Write Code Every Day** — 毎日少しでもコードを書くことを目標に、小さな積み重ねを大切にしています。
+**Write Code Every Day**
 
 ### 🔭 Currently Working On
 

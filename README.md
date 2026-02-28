@@ -44,6 +44,8 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
     - [fix(core): Fix execution startedAt timezone issue with PostgreSQL](https://github.com/n8n-io/n8n/pull/25054)
 
 - **[open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js)**
+  - ISSUE
+    - [`Span#setStatus()` does not enforce StatusCode precedence rules per specification](https://github.com/open-telemetry/opentelemetry-js/issues/6455)
   - PR
     - [chore: fix typos in source code and documentation](https://github.com/open-telemetry/opentelemetry-js/pull/6308)
 

@@ -35,6 +35,10 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ### 🤝 OSS Contributions
 
+- **[fastify/otel](https://github.com/fastify/otel)
+  - ISSUE
+    - [finalizeResponseSpanHook and finalizeNotFoundSpanHook set OK status on non-5xx responses, violating OTel spec](https://github.com/fastify/otel/issues/126)
+
 - **[n8n-io/n8n](https://github.com/n8n-io/n8n)**
   - PR
     - [fix(core): Fix execution startedAt timezone issue with PostgreSQL](https://github.com/n8n-io/n8n/pull/25054)

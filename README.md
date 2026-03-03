@@ -48,6 +48,7 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
     - [`Span#setStatus()` does not enforce StatusCode precedence rules per specification](https://github.com/open-telemetry/opentelemetry-js/issues/6455)
   - PR
     - [chore: fix typos in source code and documentation](https://github.com/open-telemetry/opentelemetry-js/pull/6308)
+    - [fix(span): enforce StatusCode precedence rules in setStatus per specification](https://github.com/open-telemetry/opentelemetry-js/pull/6461)
 
 - **[firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)**
   - PR

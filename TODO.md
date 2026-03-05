@@ -1,0 +1,2 @@
+- [ ] Add LAPRAS SCORE
+    - https://zenn.dev/lapras_inc/articles/6e161be042f3d1

@@ -17,6 +17,10 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 - OpenTelemetry (OTEL)
 - Full-stack development with SRE focus
 
+### 📝 TIL (Today I Learned)
+
+- **[til](https://newbee1939.github.io/til/)** — Short notes on things I learn day to day
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**

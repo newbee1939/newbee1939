@@ -67,6 +67,8 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ### 📊 GitHub Activity
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=newbee1939&theme=github-compact)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbee1939&theme=vision_friendly_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbee1939&theme=vision_friendly_dark)

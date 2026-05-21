@@ -69,6 +69,8 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=newbee1939&theme=github-compact)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=newbee1939&theme=dark)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newbee1939&theme=vision_friendly_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newbee1939&theme=vision_friendly_dark)
@@ -76,3 +78,5 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newbee1939&theme=vision_friendly_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=newbee1939&theme=vision_friendly_dark&utcOffset=8)
+
+![](https://github-profile-trophy.vercel.app/?username=newbee1939&theme=darkhub)

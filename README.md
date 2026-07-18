@@ -19,7 +19,7 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 
 ### 📝 TIL (Today I Learned)
 
-- **[til](https://newbee1939.github.io/til/)** — Short notes on things I learn day to day
+- **[til](https://newbee1939.github.io/til/)** — Short notes on things I learn day to day ([repo](https://github.com/newbee1939/til))
 
 ### 🛠️ Tech Stack
 

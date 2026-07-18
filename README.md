@@ -37,6 +37,13 @@ I'm a full-stack engineer with experience across frontend, backend, and infrastr
 - GraphQL, Prisma
 - Jest, GitHub Actions, CircleCI
 
+### 🚀 Personal Projects
+
+- **[knowledge-flow](https://newbee1939.github.io/knowledge-flow/)** — A solo-operated tech news media platform ([repo](https://github.com/newbee1939/knowledge-flow))
+  - **Problem:** Tech news is usually consumed as isolated, one-off items, making it hard to see how today's topics connect to past developments or to grasp longer-term trends.
+  - **Solution:** Organizes daily reports along a year / month / day timeline so readers can move between granularities and see tech news as a connected flow rather than scattered entries.
+  - **Stack:** Astro, TypeScript, Vitest, Biome (deployed on GitHub Pages)
+
 ### 🤝 OSS Contributions
 
 - **[fastify/otel](https://github.com/fastify/otel)**
